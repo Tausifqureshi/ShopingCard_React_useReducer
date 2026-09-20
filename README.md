@@ -37,37 +37,37 @@ The `CartProvider` component wraps the app, exposing the cart state and helper f
 ```
 shopping-cart/
 +-- public/
-¦   +-- vite.svg
+ï¿½   +-- vite.svg
 +-- src/
-¦   +-- components/
-¦   ¦   +-- UI/
-¦   ¦   ¦   +-- Container.jsx
-¦   ¦   ¦   +-- Container.module.css
-¦   ¦   ¦   +-- Modal.jsx
-¦   ¦   ¦   +-- Modal.module.css
-¦   ¦   +-- Cart.jsx
-¦   ¦   +-- Cart.module.css
-¦   ¦   +-- CartItem.jsx
-¦   ¦   +-- CartItem.module.css
-¦   ¦   +-- Header.jsx
-¦   ¦   +-- Header.module.css
-¦   ¦   +-- Product.jsx
-¦   ¦   +-- Product.module.css
-¦   ¦   +-- Products.jsx
-¦   ¦   +-- Products.module.css
-¦   +-- contexts/
-¦   ¦   +-- CartProvider.jsx
-¦   +-- data/
-¦   ¦   +-- productsData.js
-¦   +-- App.css
-¦   +-- App.jsx
-¦   +-- index.css
-¦   +-- main.jsx
+ï¿½   +-- components/
+ï¿½   ï¿½   +-- UI/
+ï¿½   ï¿½   ï¿½   +-- Container.jsx
+ï¿½   ï¿½   ï¿½   +-- Container.module.css
+ï¿½   ï¿½   ï¿½   +-- Modal.jsx
+ï¿½   ï¿½   ï¿½   +-- Modal.module.css
+ï¿½   ï¿½   +-- Cart.jsx
+ï¿½   ï¿½   +-- Cart.module.css
+ï¿½   ï¿½   +-- CartItem.jsx
+ï¿½   ï¿½   +-- CartItem.module.css
+ï¿½   ï¿½   +-- Header.jsx
+ï¿½   ï¿½   +-- Header.module.css
+ï¿½   ï¿½   +-- Product.jsx
+ï¿½   ï¿½   +-- Product.module.css
+ï¿½   ï¿½   +-- Products.jsx
+ï¿½   ï¿½   +-- Products.module.css
+ï¿½   +-- contexts/
+ï¿½   ï¿½   +-- CartProvider.jsx
+ï¿½   +-- data/
+ï¿½   ï¿½   +-- productsData.js
+ï¿½   +-- App.css
+ï¿½   +-- App.jsx
+ï¿½   +-- index.css
+ï¿½   +-- main.jsx
 +-- package.json
 +-- vite.config.js
 +-- README.md
 ```
-
+     S
 ---
 
 ## ??? Tech Stack & Dependencies
